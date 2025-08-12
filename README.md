@@ -53,7 +53,7 @@ Este desafio consiste em treinar a estruturação de um site utilizando HTML pur
 Clone o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/shinkai-archives.git
+git clone https://github.com/JyojiTenguam/shinkai-archives.git
 cd shinkai-archives
 start index.html  # No Windows, ou abra o arquivo manualmente no navegador
 ```
